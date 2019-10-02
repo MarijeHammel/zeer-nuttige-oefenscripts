@@ -1,5 +1,5 @@
 # nutteloze-oefenscripts
- Teeny tiny nutteloze onzin.
+ Allemaal zeer nuttige projecten met toegevoegde waarde en vitamine C
 
  glazenbol:
     Vraagt eerst hoe het gaat en voorspelt daarna de toekomst!
