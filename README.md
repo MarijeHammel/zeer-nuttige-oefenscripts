@@ -1,4 +1,4 @@
-# nutteloze-oefenscripts
+# zeer-nuttige-oefenscripts
  Allemaal zeer nuttige projecten met toegevoegde waarde en vitamine C
 
  glazenbol:
