@@ -1,5 +1,5 @@
 function fizzbuzz() {
-        for (var i = 1; i <= 100; i++) {
+        for (let i = 1; i <= 100; i++) {
            
             switch (true) {
 
